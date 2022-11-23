@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1074363020980",
+    "project_id": "muhnd-shop-getx",
+    "storage_bucket": "muhnd-shop-getx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074363020980:android:958e1a897886fe0a3809e1",
+        "android_client_info": {
+          "package_name": "com.example.ushopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074363020980-nsqdbgfbbs12bfl3i36pfi0p9kl4hkps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0guwlOTawER9h7zMOnwe7MDFxw8KeIoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074363020980-nsqdbgfbbs12bfl3i36pfi0p9kl4hkps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

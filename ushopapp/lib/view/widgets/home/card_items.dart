@@ -89,6 +89,7 @@ class CardItem extends StatelessWidget {
         child: Container(
           decoration: BoxDecoration(
             borderRadius: BorderRadius.circular(15),
+            color: Colors.white,
             boxShadow: [
               BoxShadow(
                 color: Colors.grey.withOpacity(0.2),
@@ -108,11 +109,11 @@ class CardItem extends StatelessWidget {
                         controller.manageFavourites(productId);
                       },
                       icon: controller.isFavourites(productId)
-                          ? Icon(
+                          ? const Icon(
                               Icons.favorite,
                               color: Colors.red,
                             )
-                          : Icon(
+                          : const Icon(
                               Icons.favorite_outline,
                               color: Colors.black,
                             ),
